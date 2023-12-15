@@ -39,8 +39,7 @@ class C: public B
 main()
 {
 	C obj;
-	obj.printdata_A();
-	obj.printdata_B();
+	
 	obj.printdata_C();
 }
 
